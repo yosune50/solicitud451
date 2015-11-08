@@ -22,13 +22,14 @@ Al darse prioridad a las solicitudes recurrentes (punto 4 del decreto), entre m�
 OBJETIVOS
 -----------------------------------------------------------------
 
-Central:
-Diseñar una herramienta que permita exponenciar las solicitudes de información 
+Central: 
+- Que todos los datos que publique el gobierno sean abiertos
 
-Secundarios
-Que las organizaciones cuenten con una herramienta que permita invitar a los ciudadanos a que apoyen solicitudes de información a través de campañas
-Que los ciudadanos tengan la posibilidad de apoyar que se solicite información gubernamental
-Fomentar la cultura del acceso a la información pública
+Secundarios: 
+- Diseñar una herramienta que permita exponenciar las solicitudes de información
+- Que las organizaciones cuenten con una herramienta que permita invitar a los ciudadanos a que apoyen solicitudes de información a través de campañas
+- Que los ciudadanos tengan la posibilidad de apoyar que se solicite información gubernamental
+- Fomentar la cultura del acceso a la información pública
 
 -----------------------------------------------------------------
 USUARIOS
